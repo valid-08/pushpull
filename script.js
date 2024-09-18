@@ -7,4 +7,6 @@ function num2() {
 function num3() {
     
 }
-a;ksjbr;
+function name(params) {
+    
+}
